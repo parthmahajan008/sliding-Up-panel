@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "706412148019",
+    "project_id": "slide-up-panel",
+    "storage_bucket": "slide-up-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706412148019:android:c819388ab18f9adef07a46",
+        "android_client_info": {
+          "package_name": "com.example.slidinguppanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706412148019-cshe063vej2l63ll6dpuop6lc4r5q853.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqWyR6x_yZA7ndwuAY8Gi_gpOsC9asubM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706412148019-cshe063vej2l63ll6dpuop6lc4r5q853.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706412148019-gdk0d9rgsn39v48hud43gg4l5bio9go7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.slidinguppanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
